@@ -1,4 +1,4 @@
-fun main (args: Array<String>) {
+fun main () {
     val amount: Float = 50000F
     val commission: Float
     if (amount >= 4666.666666667 ) {
